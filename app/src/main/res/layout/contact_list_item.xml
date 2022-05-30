@@ -31,13 +31,13 @@
             style="@style/TextAppearance.MaterialComponents.Subtitle1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            tools:text="Lucas Batista" />
+            tools:text="Gabriel Maffei" />
 
         <TextView
             android:id="@+id/phone"
             style="@style/TextAppearance.MaterialComponents.Caption"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            tools:text="(47) 98447-8121" />
+            tools:text="(47) 99606-4011" />
     </LinearLayout>
 </LinearLayout>
