@@ -3,10 +3,16 @@
 Esse é um aplicativo de contatos básico, que utiliza integração com o banco de dados atráves do padrão de projeto DAO.
 Feito para a disciplina de Programação Mobile.
 
-<b>Capturas de tela:</b>
+## Capturas de tela:
 
 <p align="center">
   <img src="pictures/main.png" width="200" title="Imagem 1" alt="Captura de tela 1">
   <img src="pictures/edit.png" width="200" title="Imagem 2" alt="Captura de tela 2">
   <img src="pictures/new.png" width="200" title="Imagem 3" alt="Captura de tela 3">
+</p>
+
+## Capturas de tela (modo noturno):
+<p align="center">
+  <img src="pictures/mainDark.png" width="200" title="Imagem 1" alt="Captura de tela 4">
+  <img src="pictures/editDark.png" width="200" title="Imagem 2" alt="Captura de tela 5">
 </p>
